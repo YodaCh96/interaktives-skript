@@ -1,4 +1,4 @@
-namespace InteractiveScript
+﻿namespace InteractiveScript
 {
     class Gang
     {

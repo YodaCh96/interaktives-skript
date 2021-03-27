@@ -1,4 +1,4 @@
-namespace InteractiveScript
+﻿namespace InteractiveScript
 {
     // Klassen-Namen werden grundsätzlich in Einzahl geschrieben.
     // Klassen sind üblicherweise in einer gleichnamigen Datei drin.

@@ -1,6 +1,7 @@
-namespace InteractiveScript
+﻿namespace InteractiveScript
 {
-    class Ship {
+    class Ship
+    {
         public Pirate[] pirates;    // andere Notation als in C!
     }
 }

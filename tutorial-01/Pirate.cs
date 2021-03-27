@@ -1,4 +1,4 @@
-namespace InteractiveScript
+﻿namespace InteractiveScript
 {
     // Mit dem Schlüsselwort "class" kann eine neue Klasse definiert werden.
     // Namen von Klassen werden üblicherweise mit einem Grossbuchstaben geschrieben.
